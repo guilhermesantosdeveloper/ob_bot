@@ -1,0 +1,1 @@
+pip3 install -U https://github.com/iqoptionapi/iqoptionapi/archive/refs/heads/master.zip
